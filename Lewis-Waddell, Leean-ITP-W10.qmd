@@ -1,0 +1,45 @@
+---
+title: "ITP-W10-Shopify Store - Assignment 8 - Store Testing and Analytics Review"
+author: "Leeann Lewis-Waddell"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# **Customer journey test**
+
+Test the path from homepage to collection page, product page, cart, and checkout preview if available.
+
+# **Screenshots of testing process**
+
+Include screenshots showing at least three stages of the customer journey.
+
+# **Store strengths**
+
+Identify three strengths of your current store.
+
+# **Areas for improvement**
+
+Identify three areas that still need improvement.
+
+# **Analytics review**
+
+Include a screenshot or brief discussion of available Shopify or GA4 analytics.
+
+# **Improvement plan**
+
+Write one paragraph explaining what you plan to improve before the final submission.
+
+# Appendix
+
+- [GitHub Repo](https://github.com/lewiswaddell/ITP-W10.git)
+
+- GitHub Pages
