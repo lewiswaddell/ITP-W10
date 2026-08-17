@@ -62,4 +62,4 @@ Before the final submission, my priority is fixing the inconsistencies uncovered
 
 - [GitHub Repo](https://github.com/lewiswaddell/ITP-W10.git)
 
-- GitHub Pages
+- [GitHub Pages](https://lewiswaddell.github.io/ITP-W10/)
